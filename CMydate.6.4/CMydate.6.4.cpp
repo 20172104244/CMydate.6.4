@@ -55,7 +55,7 @@ public:
 };
 int main()
 {
-	CDate omydate1(2018,6,4);
+	CMyDate omydate1(2018,6,4);
 	omydate1.display();
     return 0;
 }
